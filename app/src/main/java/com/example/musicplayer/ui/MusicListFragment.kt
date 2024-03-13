@@ -17,7 +17,7 @@ class MusicListFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
-        return inflater.inflate(R.layout.fragment_music_list, container, false)
+        return inflater.inflate(R.layout.fragment_song_list, container, false)
     }
 
 }

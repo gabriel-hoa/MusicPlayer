@@ -100,3 +100,7 @@ Q.idea/sonarlint/securityhotspotstore/5/1/51e1c5d383dfaa35e0e7e5873a0a99355a8688
 Q.idea/sonarlint/securityhotspotstore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e,2/a/2a357145b04aeee0545d8bc616c6d89a975ff771
 q
 Aapp/src/main/java/com/example/musicplayer/ui/MusicListFragment.kt,6/3/63abf1db819dba5cd53b7988c982cf0ae0285384
+o
+?app/src/main/java/com/example/musicplayer/MusicPlayerManager.kt,1/c/1c90b7836cbf9e30ba2b49a7b68e30a1c3b49c8b
+j
+:app/src/main/java/com/example/musicplayer/MyApplication.kt,b/8/b81c5ab326f3ff17fca1a063528333c332cdab73
