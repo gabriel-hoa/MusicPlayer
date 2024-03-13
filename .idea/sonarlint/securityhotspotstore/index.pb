@@ -98,3 +98,5 @@ Q.idea/sonarlint/securityhotspotstore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307
 Q.idea/sonarlint/securityhotspotstore/5/1/51e1c5d383dfaa35e0e7e5873a0a99355a86880f,9/8/98b276e680f6f42cc2f1876ddde0c3e304d47f13
 Å
 Q.idea/sonarlint/securityhotspotstore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e,2/a/2a357145b04aeee0545d8bc616c6d89a975ff771
+q
+Aapp/src/main/java/com/example/musicplayer/ui/MusicListFragment.kt,6/3/63abf1db819dba5cd53b7988c982cf0ae0285384
