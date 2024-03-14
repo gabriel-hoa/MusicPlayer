@@ -252,3 +252,5 @@ o
 ?app/src/main/java/com/example/musicplayer/mvvm/SongViewModel.kt,f/2/f2cc8ddb137e8211b9e570abfd6fa40118320d12
 v
 Fapp/src/main/java/com/example/musicplayer/mvvm/SongViewModelFactory.kt,9/1/917b5b576d72a7c4687139dbc64f0772d8bcbab9
+p
+@app/src/main/java/com/example/musicplayer/adapter/SongAdapter.kt,b/9/b909262e4420d2cc7cdf3b5ed0287e2a236044cd
