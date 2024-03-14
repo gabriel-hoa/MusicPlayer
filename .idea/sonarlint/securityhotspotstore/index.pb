@@ -246,3 +246,9 @@ Q.idea/sonarlint/securityhotspotstore/9/a/9aed88f31eac276604c6355c1adcc0bce1f80f
 Q.idea/sonarlint/securityhotspotstore/9/0/909762385fc6eb20f922a91c6865741308b57f2c,e/0/e0ea4108d198a3d2e4e87c48063db9d2bffad652
 g
 7app/src/main/java/com/example/musicplayer/modal/Song.kt,d/d/dd1de4719440be7fbf8b0c133a58f8c0d7409f10
+p
+@app/src/main/java/com/example/musicplayer/mvvm/SongRepository.kt,f/c/fc2afccc197d27665a864fd5846c5749eddf8772
+o
+?app/src/main/java/com/example/musicplayer/mvvm/SongViewModel.kt,f/2/f2cc8ddb137e8211b9e570abfd6fa40118320d12
+v
+Fapp/src/main/java/com/example/musicplayer/mvvm/SongViewModelFactory.kt,9/1/917b5b576d72a7c4687139dbc64f0772d8bcbab9
