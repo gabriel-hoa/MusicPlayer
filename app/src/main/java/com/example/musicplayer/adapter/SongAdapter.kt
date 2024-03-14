@@ -54,8 +54,8 @@ class SongAdapter : RecyclerView.Adapter<SongHolder>()  {
 
 
 
-        val minutes = song.duration / 60000
-        val seconds = song.duration % 60
+        val minutes = song.duration?.div(60000)
+        val seconds = song.duration?.rem(60)
         val time = "$minutes:$seconds"
 
         holder.songDuration.text = time

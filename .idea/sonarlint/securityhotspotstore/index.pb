@@ -98,8 +98,6 @@ Q.idea/sonarlint/securityhotspotstore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307
 Q.idea/sonarlint/securityhotspotstore/5/1/51e1c5d383dfaa35e0e7e5873a0a99355a86880f,9/8/98b276e680f6f42cc2f1876ddde0c3e304d47f13
 Å
 Q.idea/sonarlint/securityhotspotstore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e,2/a/2a357145b04aeee0545d8bc616c6d89a975ff771
-q
-Aapp/src/main/java/com/example/musicplayer/ui/MusicListFragment.kt,6/3/63abf1db819dba5cd53b7988c982cf0ae0285384
 o
 ?app/src/main/java/com/example/musicplayer/MusicPlayerManager.kt,1/c/1c90b7836cbf9e30ba2b49a7b68e30a1c3b49c8b
 j
@@ -254,3 +252,5 @@ v
 Fapp/src/main/java/com/example/musicplayer/mvvm/SongViewModelFactory.kt,9/1/917b5b576d72a7c4687139dbc64f0772d8bcbab9
 p
 @app/src/main/java/com/example/musicplayer/adapter/SongAdapter.kt,b/9/b909262e4420d2cc7cdf3b5ed0287e2a236044cd
+l
+<app/src/main/java/com/example/musicplayer/ui/SongListFrag.kt,2/6/26bc2a0f61f1b0ae26e0f4bdbc70831f30c82b19

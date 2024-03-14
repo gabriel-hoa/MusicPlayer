@@ -6,6 +6,6 @@
 
     <fragment
         android:id="@+id/musicListFragment"
-        android:name="com.example.musicplayer.ui.MusicListFragment"
+        android:name="com.example.musicplayer.ui.SongListFrag"
         android:label="MusicListFragment" />
 </navigation>
