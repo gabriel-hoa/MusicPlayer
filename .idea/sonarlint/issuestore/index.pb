@@ -244,3 +244,5 @@ Q.idea/sonarlint/securityhotspotstore/9/8/98b276e680f6f42cc2f1876ddde0c3e304d47f
 Q.idea/sonarlint/securityhotspotstore/9/a/9aed88f31eac276604c6355c1adcc0bce1f80fd6,7/f/7ff150f431c7de579e12753f1c7637cd3af9b0b6
 Å
 Q.idea/sonarlint/securityhotspotstore/9/0/909762385fc6eb20f922a91c6865741308b57f2c,e/0/e0ea4108d198a3d2e4e87c48063db9d2bffad652
+g
+7app/src/main/java/com/example/musicplayer/modal/Song.kt,d/d/dd1de4719440be7fbf8b0c133a58f8c0d7409f10
