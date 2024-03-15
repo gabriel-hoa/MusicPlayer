@@ -45,7 +45,7 @@
                 android:layout_height="300dp"
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="80dp"
-                android:src="@drawable/album" />
+                android:src="@drawable/albumlogo" />
 
             <TextView
                 android:id="@+id/songTitleTextView"

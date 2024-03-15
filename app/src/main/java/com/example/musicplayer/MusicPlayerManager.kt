@@ -12,8 +12,8 @@ import com.example.musicplayer.modal.Song
 class MusicPlayerManager : MediaPlayer.OnCompletionListener {
     private var mediaPlayer: MediaPlayer? = null
     private var isPaused: Boolean = false
-    val context = MyApplication.instance
-    var songName: String = ""
+    private val context = MyApplication.instance
+    private var songName: String = ""
     private var mediaPlayerListener: MediaPlayerListener? = null
 
 

@@ -241,8 +241,7 @@ class SongListFrag : Fragment(), onSongItemClicked, MediaPlayerListener {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             requestPermissions(permissions, REQUEST_PERMISSION_CODE)
         } else {
-            // Permissions are granted prior to API level 23
-            // Proceed with your code
+
         }
     }
 
@@ -260,7 +259,7 @@ class SongListFrag : Fragment(), onSongItemClicked, MediaPlayerListener {
                     binding.rvSongList.adapter = adapter
                 })
             } else {
-                // Permission denied, handle accordingly (e.g., show a message or take appropriate action)
+
             }
         }
     }
@@ -269,8 +268,8 @@ class SongListFrag : Fragment(), onSongItemClicked, MediaPlayerListener {
     private fun requestAudioFocus(): Boolean {
         return audioFocusRequest?.let { request ->
             val focusRequest = request
-            // Additional logic here if needed
-            true // Return a Boolean value indicating success
+
+            true
         } ?: run {
             val requestBuilder = AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN).apply {
                 setAudioAttributes(AudioAttributes.Builder().apply {
@@ -456,7 +455,7 @@ class SongListFrag : Fragment(), onSongItemClicked, MediaPlayerListener {
         songTitleCom.text = currentSong.title
 
         val textWidth = songTitleCom.paint.measureText(songTitleCom.text.toString())
-        val screenWidth = context!!.resources.displayMetrics.widthPixels.toFloat()
+        val screenWidth = requireContext().resources.displayMetrics.widthPixels.toFloat()
 
         val translateAnimation = TranslateAnimation(screenWidth, -textWidth, 0f, 0f)
         translateAnimation.duration = (textWidth / screenWidth * 10000).toLong() // Adjust the duration as per your preference
